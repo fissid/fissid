@@ -1,6 +1,6 @@
 ### Hi there 👋
  I'm Saeed <br>
- Intrested in learning and solving <br>
+ interested in learning and solving the problems <br>
  I'm in Python, C, Bash, HTML, CSS, ML, MCSA and Networking
 
 ### Contact 💬
