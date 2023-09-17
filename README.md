@@ -8,11 +8,11 @@ I'm Saeed, a passionate individual with a deep love for crafting digital solutio
 
 **What Drives Me:**
 
-- **Learning
+**Learning
 
-- **Problem Soling
+**Problem Soling
 
-- **Innovative Design
+**Innovative Design
 
 ## Let's Connect! 💬
 
